@@ -9,8 +9,8 @@ Linker_proto is as the name suggest a prototype. It is supposed to show the fais
 
 
 ## Stack
-GitHub should tell you. :)
-Planned : frontend ReactNative (with Expo). BackEnd (to be seen) : should be node.js? 
+Planned : frontend ReactNative (with Expo). 
+BackEnd (to be seen) : should be node.js? 
 
 ## Versions
 
