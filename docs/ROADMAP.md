@@ -18,7 +18,7 @@
 - Fetches Wordpress & FB
 - Stable 
 
-## v.infinity & beyond
+## future features
 - notifications push
 - media gallery
 - other stuffs
